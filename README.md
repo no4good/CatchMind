@@ -6,8 +6,7 @@
 4. [Gulp](https://gulpjs.com "gulpjs")
 5. [nodemon](https://www.npmjs.com/package/nodemon "nodemon")
 6. [browserify](http://browserify.org "browserify")
-7. [nodemon](https://www.npmjs.com/package/nodemon "nodemon")
-8. [pug](https://pugjs.org/"pug")
+7. [pug](https://pugjs.org/"pug")
 
 
 # Installation and launch
